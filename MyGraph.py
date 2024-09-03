@@ -19,3 +19,7 @@ plt.show()
 
 #version control refers to the project as a whole
 #Source control is at a smaller level
+
+print("Hi there!")
+
+print("Hello Again")
